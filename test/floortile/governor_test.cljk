@@ -1,5 +1,5 @@
 (ns floortile.governor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [floortile.store :as store]
             [floortile.advisor :as advisor]
             [floortile.governor :as governor]))
