@@ -1,7 +1,7 @@
 (ns floortile.store
   "SSoT for the ISCO-08 7122 floor-laying/tile-setting job-site
   scheduling/logistics coordination actor (itonami actor pattern,
-  ADR-2607121000 / CLAUDE.md Actors section; README's 'Robotics
+  ADR-2607121000 / AGENTS.md Actors section; README's 'Robotics
   premise' — a job-site scheduling/logistics coordination robot
   performs crew scheduling, task/materials-usage/progress-record
   logging and flooring/tile-materials supply-order coordination for a
